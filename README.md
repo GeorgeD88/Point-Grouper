@@ -7,4 +7,4 @@ Here's an example run of the program
 Points: `[(-1, 3), (2, -4), (1, 0), (3, -2), (-1, 0)]`
 
 Resulting Image:
-![Graph Output of Program](<img src="https://imgur.com/NAtrpGu">)
+![Graph Output of Program]("https://imgur.com/NAtrpGu")
