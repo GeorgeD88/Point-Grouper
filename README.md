@@ -6,4 +6,5 @@ Here's an example run of the program
 
 Points: `[(-1, 3), (2, -4), (1, 0), (3, -2), (-1, 0)]`
 
-Resulting Image: https://imgur.com/NAtrpGu
+Resulting Image:
+<img align="left" src="https://github.com/GeorgeD88/Point-Grouper/blob/main/ex_graph.png" alt="Graph output of example program run" width="500">
